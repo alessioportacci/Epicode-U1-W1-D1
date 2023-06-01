@@ -1,0 +1,44 @@
+#top-page {
+    background: linear-gradient(45deg, #3f9ac1, #4a0dba);
+    padding: 0;
+    margin: 0;
+    color: white;
+  }
+ #scroll-down{
+    padding: 5px;
+    margin-left: 15px;
+ }
+ 
+  .top-element {
+    margin: 0;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+  }
+  .img-link {
+    width: 20px;
+    padding-top: 5px;
+  }
+  #propic {
+    float: left;
+    margin-right: 10px;
+    height: 200px;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    background: rgb(242, 248, 248);
+  }
+  div {
+    margin-left: 1em;
+  }
+  h3 {
+    margin-top: 30px;
+    margin-bottom: 5px;
+  }
+  th {
+    border-style: double;
+  }
+  td {
+    border-style: groove;
+  }
